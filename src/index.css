@@ -4,3 +4,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.contact-us-div {
+  background-image: url(/src/assets/bg-contact.c178c6db0f988d408d94.png);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: #010103;
+  margin: 0 auto;
+  padding: 10rem 2rem;
+}
+
+.banner-div {
+  background-image: url(/src/assets/book-banner.09fcba44170a314c81a8.png);
+  background-position: 50%;
+  background-repeat: no-repeat;
+}

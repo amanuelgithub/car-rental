@@ -32,7 +32,6 @@ export const Footer = () => {
                 height={24}
               />
             </li>
-            <li></li>
           </ul>
         </div>
 

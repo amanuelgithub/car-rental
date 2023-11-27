@@ -30,7 +30,7 @@ const Hero = ({
       />
 
       <section className="max-h-[410px] h-[410px]">
-        <div className="absolute top-0 right-0 h-full w-full">
+        <div className="absolute top-0 right-0 w-full">
           <img
             src="/src/assets/heroes-bg.71ab9a13d73de3860763.png"
             alt="heroes-bg.71ab9a13d73de3860763.png"

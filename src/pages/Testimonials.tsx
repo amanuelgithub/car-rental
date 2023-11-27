@@ -1,7 +1,7 @@
-import React from "react";
+import TestimonialsComp from "../components/Testimonials";
 
 const Testimonials = () => {
-  return <div>Testimonials</div>;
+  return <TestimonialsComp />;
 };
 
 export default Testimonials;
